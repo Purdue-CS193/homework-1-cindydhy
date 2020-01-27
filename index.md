@@ -1,3 +1,11 @@
+# Cindy's First CS193 Homework 
+###### Psych it's not
+
+### Favorite things about CS193:
+- Best Lecturers
+- Cool Spotify playlist
+- Chill class
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
